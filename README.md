@@ -1,0 +1,3 @@
+# CIS17B-33477-Assignment2
+
+Upon running the program it will open the library menu and offer you 3 options. Option 1 opens the books menu, option 2 opens the user menu, option 3 quits the program. In the books menu you can add a book and list a book in which you will have to either input the books information or it will print the books information. There is currently no borrowing or searching up a book option in the program. In the users menu you can add a user or list a user in which you will also input a users information or it will print all registered users. You are free to move around the menus and choose the different options.
