@@ -4,7 +4,12 @@ using namespace std;
 
 // Book Class
 class Book {
+    public:
+        string title, author, isbn;
+        bool available;
+        Book* next;
 
+        Book(string t, string a, string i) : title(t), author(a), isbn(i), available(true), next(nullptr) {}
 };
 
 // Library Class
